@@ -1,6 +1,6 @@
 # Specialization: Data Structures and Algorithms
 
-This repository contains materials and assignments on the specialization from US San Diegos specialization on Coursera "Data Structures and Algorithms.
+This repository contains materials, assignments and solutions on the Coursera specialization "Data Structures and Algorithms (UC San Diego).
 
 The specialization consists of 5 courses:  
     1. [Algorithmic Toolbox](1_algorithmic_toolbox)    
