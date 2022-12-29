@@ -18,7 +18,6 @@ In this module you will learn that programs based on efficient algorithms can so
 
 ![Big-O In Practice][def_big_o_practice]
 
-
 [def_asymptotic]: pics/asymptotic_notation.png
 [def_big-o]: pics/big_o_notation.png
 [def_common_rules]: pics/common_rules.png
