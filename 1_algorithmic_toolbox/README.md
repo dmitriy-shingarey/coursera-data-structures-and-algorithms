@@ -7,3 +7,5 @@ This online course covers basic algorithmic techniques and ideas for computation
 ## [Week2. Algorithmic Warmup](solutions/week2_algorithmic_warmup)
 
 ## [Week3. Greedy Algorithms](solutions/week3_greedy_algorithms)
+
+## [Week4. Divide and Conquer](solutions/week4_divide_and_conquer)
